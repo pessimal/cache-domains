@@ -1,6 +1,6 @@
 #!/bin/bash
 basedir=".."
-outputdir="output/unbound"
+outputdir="/etc/unbound/local.d"
 path="${basedir}/cache_domains.json"
 
 export IFS=' '

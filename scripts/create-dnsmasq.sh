@@ -1,6 +1,6 @@
 #!/bin/bash
 basedir=".."
-outputdir="output/dnsmasq"
+outputdir="/etc/dnsmasq.local"
 path="${basedir}/cache_domains.json"
 
 export IFS=' '
